@@ -117,3 +117,10 @@ body {
 .projects a h2 {
     margin-top: 20px;
 }
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
