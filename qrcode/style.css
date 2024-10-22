@@ -16,9 +16,9 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 .card{
-    width: 300px;
-
-    background-color: aquamarine;
+    width: 320px;
+    height: 500px;
+    background-color: white;
     border-radius: 20px;
 }
 .card-body {
